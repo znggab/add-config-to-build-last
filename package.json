@@ -11,6 +11,10 @@
     "plugins",
     "build"
   ],
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/znggab/add-config-to-build-last.git"
+  },
+  "author": "znggab",
   "license": "ISC"
 }
