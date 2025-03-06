@@ -1,0 +1,16 @@
+{
+  "name": "add-config-to-build-last",
+  "version": "1.0.0",
+  "description": "给打包后的目录文件中添加配置",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack",
+    "plugins",
+    "build"
+  ],
+  "author": "",
+  "license": "ISC"
+}
